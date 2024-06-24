@@ -1,6 +1,9 @@
 node_modules
 /dist/
 
+# Environments
+.env
+
 # Docker archives
 Dockerfile
 docker-compose.yml
