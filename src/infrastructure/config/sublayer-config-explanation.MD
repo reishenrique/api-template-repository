@@ -1,4 +1,7 @@
-This sublayer is responsible for configuring every external instance that requires settings to function.
+# Sublayer Config
+
+### Explanation:
+- This sublayer is responsible for configuring every external instance that requires settings to function.
 
 For example:
 
